@@ -1,0 +1,14 @@
+.x{
+    background-color: rgb(238, 203, 128);
+    padding: 10px;
+}
+
+.plate2{
+    height: 15px;
+    background-position: 0% 0%;
+    background: linear-gradient(to right, rgb(255, 183, 0), rgb(255, 232, 172) ,rgb(255, 183, 0));
+    
+    background-size: 300% auto;
+    animation: forPlate 10s linear infinite;
+    border-radius: 0 0 5px 5px;
+}

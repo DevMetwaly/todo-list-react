@@ -1,0 +1,16 @@
+.toDoBody{
+    max-height: 400px;
+    width: 50%;
+    overflow-y: scroll;
+    background-color: rgb(238, 203, 128);
+    padding: 20px 15px;
+    
+}
+
+.toDoElement{
+    padding: 10px;
+    font-size: 16px;
+    font-family: cursive;
+    border: 1px solid gray;
+    
+}
