@@ -1,7 +1,7 @@
 import React from 'react';
 import './ToDoElement.css';
 import { ListGroupItem } from 'reactstrap';
-import Aux from '../hoc/Aux';
+import Aux from '../Hoc/Aux';
 
 export default function ToDoElement(props){
     return (
